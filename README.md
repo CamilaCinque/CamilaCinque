@@ -1,8 +1,6 @@
-ㅤ­ㅤㅤㅤ­­ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Camila!)](https://git.io/typing-svg)
-##
+<h2 align="center">Hello, I'm Camila!</h2>
 
-<h3 align="center">Connect with me!</h3>
+<h3 align="center">connect with me!</h3>
 <div align="center"> 
   <a href="mailto:camilacinque14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -14,13 +12,16 @@
 
 ##
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">languages and tools:</h3>
 <div align="center">
+  
   <img alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Camila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Camila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Camila-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>                  
+
 </div>
 
 ##
