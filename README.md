@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Camila!</h1>
+ㅤ­ㅤㅤㅤ­­ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Camila!)](https://git.io/typing-svg)
+##
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me!</h3>
 <div align="center"> 
   <a href="mailto:camilacinque14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
