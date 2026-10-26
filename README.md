@@ -12,7 +12,7 @@
 
 ##
 
-<h3 align="center">languages and tools:</h3>
+<h3 align="center">my stack:</h3>
 <div align="center">
   
   <img alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
