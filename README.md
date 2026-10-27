@@ -23,6 +23,10 @@
   <img alt="Camila-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>                  
 
 </div>
+<br>
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=camilacinque&layout=donut&hide_title=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 ##
 
