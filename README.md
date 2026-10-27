@@ -1,6 +1,6 @@
 
 
-<h3 align="center">hi 👋, connect with me!</h3>
+<h3 align="center">hi 👋🏻, connect with me!</h3>
 <div align="center"> 
   <a href="mailto:camilacinque14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
